@@ -71,4 +71,4 @@ function main(): void {
   printResult(spartan);
 }
 
-main();
+main(); // Spartan (30세) - 평균: 89.40, 학점: B
